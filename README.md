@@ -2,7 +2,7 @@
 ###👋 Olá! Bem-vindo(a) ao meu perfil!
 
 🚀 Sou um desenvolvedor apaixonado por tecnologia. Minha jornada no mundo da programação começou com HTML e, desde então, venho expandindo meus conhecimentos em várias outras tecnologias.</p> 
-🌱 Estou constantemente aprendendo e buscando melhorar minhas habilidades, estou sempre animado para embarcar em novos desafios e aprender com colegas desenvolvedores.</p>  
+🌱 Estou constantemente aprendendo e buscando melhorar minhas habilidades, estou sempre animado para embarcar em novos desafios e aprender com colegas desenvolvedores.
 👨‍🎓 Graduado em Engenharia da Computação. </p> 
 💼 Trabalho na Empresa Sanchez Labs. </p> 
 🎯 Meu objetivo é continuar evoluindo como desenvolvedor e contribuir para projetos significativos que tenham um impacto positivo na vida das pessoas.</p> 
