@@ -1,6 +1,7 @@
 
 👋 Olá! Bem-vindo(a) ao meu perfil!
-##
+<br>
+<br>
 🚀 Sou um desenvolvedor apaixonado por tecnologia. Minha jornada no mundo da programação começou com HTML e, desde então, venho expandindo meus conhecimentos em várias outras tecnologias.</p> 
 🌱 Estou constantemente aprendendo e buscando melhorar minhas habilidades, estou sempre animado para embarcar em novos desafios e aprender com colegas desenvolvedores.
 👨‍🎓 Graduado em Engenharia da Computação. </p> 
