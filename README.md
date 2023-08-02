@@ -1,19 +1,13 @@
 
-👋 Olá! Bem-vindo(a) ao meu perfil!
+###👋 Olá! Bem-vindo(a) ao meu perfil!
 
-🚀 Sou um desenvolvedor apaixonado por tecnologia. Minha jornada no mundo da programação começou com HTML e, desde então, venho expandindo meus conhecimentos em várias outras tecnologias.
- ##
-🌱 Estou constantemente aprendendo e buscando melhorar minhas habilidades, estou sempre animado para embarcar em novos desafios e aprender com colegas desenvolvedores.
- ##
-👨‍🎓 Graduado em Engenharia da Computação.
- ##
-💼 Trabalho na Empresa Sanchez Labs.
- ##
-🎯 Meu objetivo é continuar evoluindo como desenvolvedor e contribuir para projetos significativos que tenham um impacto positivo na vida das pessoas.
- ##
-Vamos construir um mundo digital melhor juntos! 🌐
+-🚀 Sou um desenvolvedor apaixonado por tecnologia. Minha jornada no mundo da programação começou com HTML e, desde então, venho expandindo meus conhecimentos em várias outras tecnologias. 
+-🌱 Estou constantemente aprendendo e buscando melhorar minhas habilidades, estou sempre animado para embarcar em novos desafios e aprender com colegas desenvolvedores. 
+-👨‍🎓 Graduado em Engenharia da Computação. 
+-💼 Trabalho na Empresa Sanchez Labs. 
+-🎯 Meu objetivo é continuar evoluindo como desenvolvedor e contribuir para projetos significativos que tenham um impacto positivo na vida das pessoas.
+-🌐 Vamos construir um mundo digital melhor juntos! 
   ##
-
 <div align="center" display="flex">
   <a href="https://github.com/deiviuilian">
   <img flex="1" height="180em" src="https://github-readme-stats.vercel.app/api?username=deiviuilian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
