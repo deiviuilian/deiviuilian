@@ -1,5 +1,5 @@
 
-👋 Olá! Bem-vindo(a) ao meu perfil!><br>
+👋 Olá! Bem-vindo(a) ao meu perfil!<br>
 <br>
 <br>
 🚀 Sou um desenvolvedor apaixonado por tecnologia. Minha jornada no mundo da programação começou com HTML e, desde então, venho expandindo meus conhecimentos em várias outras tecnologias.</p> 
