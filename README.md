@@ -17,7 +17,7 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg"/> 
   <img align="center" alt="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/csharp-original.svg" />  
 </div><br>
 <!--<div align="center" display="flex">
   <a href="https://github.com/deiviuilian">
