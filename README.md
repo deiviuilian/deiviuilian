@@ -21,11 +21,9 @@
     </svg>
   </a>
 </div>
-<p dir="auto">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://camo.githubusercontent.com/6489d10f53106650afa64b1ff3ceceebbb0163008e675acd013973be31caca82/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6775737461766f736f6174746f266c61796f75743d636f6d70616374267468656d653d64726163756c61" alt="deiviuilian" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiviuilian&amp;layout=compact&amp;theme=dracula" style="max-width: 100%;">
-  </a>
-</p>
+
+<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deiviuilian&layout=compact&theme=dracula"/>
+
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">💻 Skills</h2>
   <a id="user-content-skills" class="anchor" aria-label="Permalink: Skills" href="#skills">
