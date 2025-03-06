@@ -44,6 +44,8 @@
   <img align="center" title="CSHARP" alt="CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
   <img align="center" title="POSTGRESQL" alt="POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
   <img align="center" title="SELENIUM" alt="SELENIUM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />     
+  <img align="center" title="TYPESCRIPT" alt="TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+  <img align="center" title="REACT" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 </div><br>
 <!--<div align="center" display="flex">
   <a href="https://github.com/deiviuilian">
