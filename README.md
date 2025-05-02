@@ -46,6 +46,8 @@
   <img align="center" title="SELENIUM" alt="SELENIUM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />     
   <img align="center" title="TYPESCRIPT" alt="TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
   <img align="center" title="REACT" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <img align="center" title="POWER BI" alt="POWERBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />  
+  <img align="center" title="DBEAVER" alt="DBEAVER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbaver/dbaver-original.svg" />  
 </div><br>
 <!--<div align="center" display="flex">
   <a href="https://github.com/deiviuilian">
