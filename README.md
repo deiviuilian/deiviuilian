@@ -49,6 +49,7 @@
   <img align="center" title="IONIC" alt="IONIC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" title="ANGULAR" alt="ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
   <img align="center" title="MYSQL" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" title="NODE.JS" alt="NODE.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div><br>
 <!--<div align="center" display="flex">
   <a href="https://github.com/deiviuilian">
