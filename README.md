@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="100%" height="38%"/>
+  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="100%" height="50%"/>
 </div>
 
 ---
