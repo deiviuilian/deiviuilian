@@ -5,7 +5,7 @@
 ---
 
 ### 👋 Fala! **Deividi** aqui.  
-Sou **Desenvolvedor Full Stack**, direto de **Ribeirão Preto - SP** 🚀  
+Sou **Desenvolvedor Full Stack**.  
 
 💡 Tenho paixão por tecnologia, automação e soluções inteligentes.  
 📚 Sempre aprendendo, praticando e evoluindo.  
@@ -23,7 +23,7 @@ class AboutMe extends Developer {
   name = 'Deividi Marangoni';
   role = 'Desenvolvedor Full Stack';
   born = '1993';
-  favorite = ['React', 'Angular', 'PHP', 'C#'];
+  favorite = ['PHP'];
   location = 'Ribeirão Preto, BR' as const;
   personality = 'Curioso, proativo, analítico';
   mainStack = 'Full Stack';
