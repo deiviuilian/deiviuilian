@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="50%" />
+  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="30%" />
 </div>
 
 ---
@@ -27,7 +27,6 @@ class AboutMe extends Developer {
   location = 'Ribeirão Preto, BR' as const;
   personality = 'Curioso, proativo, analítico';
   mainStack = 'Full Stack';
-  clubs = ['São Paulo'];
 }
 ```
 ---
