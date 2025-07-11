@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="100%" />
+  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="50%" />
 </div>
 
 ---
@@ -14,7 +14,6 @@ Sou **Desenvolvedor Full Stack**, direto de **Ribeirão Preto - SP** 🚀
 💬 Adoro trocar ideia sobre tecnologia, produtividade e inovação.
 
 ---
-### 📦 Sobre mim com TypeScript:
 ```ts
 // file: Deividi.ts
 
