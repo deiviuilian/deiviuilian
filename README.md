@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://seulinkdacapa.com/imagem.jpg" alt="Capa do GitHub - Deividi Marangoni" width="100%" />
+  <img src="https://raw.githubusercontent.com/deiviuilian/portfoliMy/refs/heads/main/archive/capagit.png" alt="Capa do GitHub - Deividi Marangoni" width="100%" />
 </div>
 
 ---
@@ -23,14 +23,15 @@ import Developer from 'Deividi';
 class AboutMe extends Developer {
   name = 'Deividi Marangoni';
   role = 'Desenvolvedor Full Stack';
-  born = '1990';
+  born = '1993';
   favorite = ['React', 'Angular', 'PHP', 'C#'];
   location = 'Ribeirão Preto, BR' as const;
   personality = 'Curioso, proativo, analítico';
   mainStack = 'Full Stack';
-  clubs = ['Corinthians'];
+  clubs = ['São Paulo'];
 }
-
+```
+---
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">✅ Status</h2>
   <a id="user-content-status" class="anchor" aria-label="Permalink: Status" href="#status">
